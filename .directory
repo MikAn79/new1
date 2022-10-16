@@ -1,0 +1,8 @@
+[Dolphin]
+HeaderColumnWidths=431,80,135,111,98
+Timestamp=2022,10,16,14,30,8.147
+Version=4
+VisibleRoles=Icons_text,Icons_size,Icons_creationtime,Icons_type,Icons_title,Icons_imageDateTime,Icons_dimensions,Icons_width,Icons_height,Icons_orientation
+
+[Settings]
+HiddenFilesShown=true
